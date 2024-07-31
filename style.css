@@ -18,10 +18,10 @@
 }
 
 .logo{
-    background-image: url(logo.png);
+    background-image: url(Amazon.png);
     background-size: cover;
     height: 50px;
-    width: 100%;
+    width: 50%;
 }
 .border{
     border: 2px solid transparent;
